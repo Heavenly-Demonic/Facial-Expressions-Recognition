@@ -1,4 +1,4 @@
 # Facial-Expressions-Recognition
 First Machine Learning Project using FER2013 dataset.
 
-output.png
+![Alt text](output.png)
