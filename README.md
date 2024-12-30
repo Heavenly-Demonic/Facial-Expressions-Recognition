@@ -1,6 +1,12 @@
 # Facial-Expressions-Recognition
-First Machine Learning Project using FER2013 dataset.
+First Machine Learning Project using Python.
 
-OUTPUT :
-    In the output only 5 faces are detected because only 5 neighbors are initialized in the project.py !
+Libraries Used :
+    1.Scikit-Learn
+    4.Pandas
+    2.Numpy
+    3.Opencv
+
+Output :-
+
 ![Alt text](output.png)
